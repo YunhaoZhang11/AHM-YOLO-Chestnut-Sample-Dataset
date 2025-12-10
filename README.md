@@ -27,6 +27,8 @@ AHM-YOLO-Chestnut-Sample-Dataset/
     ├── sample_002.json
     └── ...
 
+
+
 ---
 
 ## 📝 Dataset Description
@@ -82,6 +84,6 @@ For dataset access requests and inquiries:
 **Corresponding Author:**  
 Juan Li  
 College of Mechanical and Electronic Engineering, Qingdao Agricultural University  
-Email: liuan@gau.edu.cn
+Email: liuan@qau.edu.cn
 
 
