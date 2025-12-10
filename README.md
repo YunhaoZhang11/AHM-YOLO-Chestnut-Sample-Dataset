@@ -12,18 +12,20 @@ Only **a small portion** of the original dataset is released here.
 The complete dataset cannot be published due to orchard confidentiality agreements, ongoing research plans, and deployment considerations for orchard automation.
 
 ## 📁 Repository Structure
+
+```text
 AHM-YOLO-Chestnut-Sample-Dataset/
 │
 ├── README.md
-├── images/ # 22 example chestnut images
-│ ├── sample_001.jpg
-│ ├── sample_002.jpg
-│ └── ...
+├── images/                 # 22 example chestnut images
+│   ├── sample_001.jpg
+│   ├── sample_002.jpg
+│   └── ...
 │
-└── labels/ # Corresponding annotation JSON annotation files
-├── sample_001.json
-├── sample_002.json
-└── ...
+└── labels/                 # Corresponding annotation JSON files
+    ├── sample_001.json
+    ├── sample_002.json
+    └── ...
 
 ---
 
