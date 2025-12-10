@@ -11,17 +11,19 @@ The purpose of this repository is to demonstrate the **data structure**, **annot
 Only **a small portion** of the original dataset is released here.  
 The complete dataset cannot be published due to orchard confidentiality agreements, ongoing research plans, and deployment considerations for orchard automation.
 
+## 📁 Repository Structure
 AHM-YOLO-Chestnut-Sample-Dataset/
 │
 ├── README.md
+├── images/ # 22 example chestnut images
+│ ├── sample_001.jpg
+│ ├── sample_002.jpg
+│ └── ...
 │
-├── images/ # Example chestnut images (22 samples)
-│     └── ...
-│
-└── labels/ # Corresponding annotation JSON files
-
+└── labels/ # Corresponding annotation JSON annotation files
+├── sample_001.json
+├── sample_002.json
 └── ...
-
 
 ---
 
